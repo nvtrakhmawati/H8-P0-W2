@@ -18,7 +18,7 @@ function mengelompokkanAngka(arr) {
     arrHasil.push(arrGenap)
         arrHasil.push(arrGanjil)
         arrHasil.push(arrKelipatan3)
-        console.log(arrHasil)
+        return arrHasil
 }
 
 // TEST CASES
